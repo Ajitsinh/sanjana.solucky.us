@@ -1,9 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",
-      "destination": "/",
-      "permanent": true
+      "source": "/",
+      "destination": "https://solucky-life.my.canva.site/portfolio-sanjana-solanki-2026",
+      "permanent": false
     }
   ]
 }
